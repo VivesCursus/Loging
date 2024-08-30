@@ -10,6 +10,7 @@
   "author": "IV",
   "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
   "devDependencies": {
+    "v-dialogs": "^2.2.0",
     "vuepress": "^1.2.0",
     "vuepress-plugin-zooming": "^1.1.8"
   },

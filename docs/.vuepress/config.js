@@ -4,12 +4,12 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Company', link: 'https://www.vives.be' },
-      { text: 'License', link: '/LICENSE.md' },
+      { text: 'About', link: '/about/' },
+      
     ],
-    sidebar: [
-      ['/', 'Home'],
-    ],
+   // sidebar: [
+    //  ['/', 'Home'],
+    //],
     repo: 'https://github.com/VivesCursus/Loging',
     docsDir: 'docs',
     docsBranch: 'master'
